@@ -1,10 +1,13 @@
-## TALKAPP
+## WeTalk
 
 
 ## Summary :-
 
-This is an exclusive distribution of TalkApp created By Python course Project team. This application was designed to have group chats. This has features like sending messages, showing all users in database, showing all the active users, working in real-time, responsive, managing account settings, login, logout, register. Hope you like the application. Please share your feedbacks.
+This is an exclusive distribution of WeTalk created by using Object Orinted approach. This application was designed to have group chats. This has features like sending messages, showing all users in database, showing all the active users, working in real-time, responsive, managing account settings, login, logout, register.
 
+# Project setup
+
+If you do need to set the project up locally yourself, feel free to follow these instructions:
 
 ## Requirements :- 
 
@@ -17,29 +20,33 @@ This is an exclusive distribution of TalkApp created By Python course Project te
 4. import sqlite3
 
 
-## How to Use :-
+##  Quickstart
+```
+git clone https://github.com/goshipra/WeTalk_chat_object_orinted
+cd WeTalk_chat_object_orinted
+```
 
-1. Run the Server File.
+# Executing Project  
+```
+1. First run the mysql_database_create_table.py to create the sql database.
 
-2. Create a database in mysql. Run the queries given below.
+2. Then run server.py file to run the server.
 
-	i). CREATE DATABASE LOGIN_APP;
- 
-	ii). CREATE TABLE LOG_DETAILS(NAME VARCHAR(20), USERNAME VARCHAR(20), PASSWORD VARCHAR(20), AVATAR VARCHAR(20));
- 
-	iii). DESC LOG_DETAILS;
- 
-	
+3. Then run the run.py file.
 
-
- 
-	
-	
+4. Open terminal and run the run.py file multiple times and login from different accounts OR
+    You can copy the run.py file multiple times from differnt name and run it.
 
 
-3. Copy the repositiory in different computers or folders and run the run.py file and register with a new user.
+# Some Screen Shots of the project
 
-4. Enjoy Chatting.
+<img width="420" alt="Screen Shot 2022-04-10 at 5 20 36 PM" src="https://user-images.githubusercontent.com/82234491/162646548-ec47a6a0-c4c3-43ea-b2e7-eecfa15f614b.png">
+<img width="419" alt="Screen Shot 2022-04-10 at 5 23 13 PM" src="https://user-images.githubusercontent.com/82234491/162646559-f8ec3ec6-bfbb-44f8-9ed6-d500ecd49ddc.png">
+<img width="598" alt="Screen Shot 2022-04-10 at 5 22 56 PM" src="https://user-images.githubusercontent.com/82234491/162646572-dc085240-4806-4288-bc3b-9fd347178f62.png">
+<img width="734" alt="Screen Shot 2022-04-10 at 5 21 17 PM" src="https://user-images.githubusercontent.com/82234491/162646581-386ab3f3-1464-483c-828b-51b0b3d1b8dc.png">
+
+
+
 
 
 
