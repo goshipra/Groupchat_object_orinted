@@ -42,8 +42,8 @@ cd WeTalk_chat_object_orinted
 
 <img width="420" alt="Screen Shot 2022-04-10 at 5 20 36 PM" src="https://user-images.githubusercontent.com/82234491/162646548-ec47a6a0-c4c3-43ea-b2e7-eecfa15f614b.png">
 <img width="419" alt="Screen Shot 2022-04-10 at 5 23 13 PM" src="https://user-images.githubusercontent.com/82234491/162646559-f8ec3ec6-bfbb-44f8-9ed6-d500ecd49ddc.png">
-<img width="598" alt="Screen Shot 2022-04-10 at 5 22 56 PM" src="https://user-images.githubusercontent.com/82234491/162646572-dc085240-4806-4288-bc3b-9fd347178f62.png">
-<img width="734" alt="Screen Shot 2022-04-10 at 5 21 17 PM" src="https://user-images.githubusercontent.com/82234491/162646581-386ab3f3-1464-483c-828b-51b0b3d1b8dc.png">
+
+
 
 
 
