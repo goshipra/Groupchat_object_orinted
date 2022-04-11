@@ -40,6 +40,8 @@ cd WeTalk_chat_object_orinted
 
 # Some Screen Shots of the project
 <img width="598" alt="Screen Shot 2022-04-10 at 5 22 56 PM" src="https://user-images.githubusercontent.com/82234491/162649779-8519e2a4-fc67-45a4-8ba8-efa4d2a847d0.png">
+<img width="734" alt="Screen Shot 2022-04-10 at 5 21 17 PM" src="https://user-images.githubusercontent.com/82234491/162649835-e682a36c-41ca-4671-a4ea-8ec47f03cd80.png">
+<img width="420" alt="Screen Shot 2022-04-10 at 5 20 36 PM" src="https://user-images.githubusercontent.com/82234491/162649844-f1e02d21-ad53-4251-8b25-32d17904b3c8.png">
 
 
 
