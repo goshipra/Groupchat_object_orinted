@@ -1,4 +1,4 @@
-## WeTalk
+#TalkApp
 
 
 ## Summary :-
@@ -36,12 +36,22 @@ cd WeTalk_chat_object_orinted
 
 4. Open terminal and run the run.py file multiple times and login from different accounts OR
     You can copy the run.py file multiple times from differnt name and run it.
+```
+
+# Screenshots
+
+<img width="420" alt="Screen Shot 2021-08-18 at 9 37 38 PM" src="https://user-images.githubusercontent.com/82234491/189183186-395dc058-a7fe-4d03-93ba-34462b521d9b.png">
+<img width="418" alt="Screen Shot 2021-08-18 at 9 37 48 PM" src="https://user-images.githubusercontent.com/82234491/189183219-fffe9b31-b608-4df5-9412-5bdf470bb2b1.png">
+<img width="1313" alt="Screen Shot 2021-08-18 at 9 34 55 PM" src="https://user-images.githubusercontent.com/82234491/189183299-5eca2b9b-b777-469d-b97d-d353ac749e6a.png">
+<img width="985" alt="Screen Shot 2021-08-18 at 9 28 45 PM" src="https://user-images.githubusercontent.com/82234491/189183371-8157863b-c828-4692-827f-61b68a99c8b7.png">
+<img width="599" alt="Screen Shot 2021-08-18 at 9 28 22 PM" src="https://user-images.githubusercontent.com/82234491/189183425-dd967a81-ed96-408b-9af3-599d1cbae648.png">
+<img width="1350" alt="Screen Shot 2021-08-18 at 9 28 09 PM" src="https://user-images.githubusercontent.com/82234491/189183472-1521fa9e-b7d6-4770-8d0b-e67b06e641d5.png">
+
+<img width="560" alt="Screen Shot 2021-08-18 at 9 29 40 PM" src="https://user-images.githubusercontent.com/82234491/189183522-69deac61-fda4-4056-95de-d61b69d68c8c.png">
 
 
-# Some Screenshots of the project
-<img width="598" alt="Screen Shot 2022-04-10 at 5 22 56 PM" src="https://user-images.githubusercontent.com/82234491/162649779-8519e2a4-fc67-45a4-8ba8-efa4d2a847d0.png">
-<img width="734" alt="Screen Shot 2022-04-10 at 5 21 17 PM" src="https://user-images.githubusercontent.com/82234491/162649835-e682a36c-41ca-4671-a4ea-8ec47f03cd80.png">
-<img width="420" alt="Screen Shot 2022-04-10 at 5 20 36 PM" src="https://user-images.githubusercontent.com/82234491/162649844-f1e02d21-ad53-4251-8b25-32d17904b3c8.png">
+
+
 
 
 
