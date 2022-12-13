@@ -3,7 +3,7 @@
 
 ## Summary :-
 
-This is an exclusive distribution of WeTalk created by using Object Orinted approach. This application was designed to have group chats. This has features like sending messages, showing all users in database, showing all the active users, working in real-time, responsive, managing account settings, login, logout, register.
+This is an exclusive distribution of TalkApp created by using Object Orinted approach. This application was designed to have group chats. This has features like sending messages, showing all users in database, showing all the active users, working in real-time, responsive, managing account settings, login, logout, register.
 
 # Project setup
 
